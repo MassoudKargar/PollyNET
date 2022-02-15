@@ -1,5 +1,3 @@
-using System.Net.Mail;
-using System.Net;
 namespace ResponseService.Controllers;
 
 using Microsoft.AspNetCore.Mvc;
